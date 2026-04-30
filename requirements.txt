@@ -8,3 +8,5 @@ statsmodels
 pyarrow
 openpyxl
 requests
+pyspark
+scipy
